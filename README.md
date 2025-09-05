@@ -31,4 +31,4 @@ Developed as part of a team project at Purdue University Northwest.
 
 ## Report
 Full project report with methodology, data description, results, and discussion is available here:  
-[📄 Final Project Report (PDF)](report/Final_Project_Report.pdf)
+[[📄 Final Project Report (PDF)](report/Final_Project_Report.pdf)](https://github.com/DavidGarcia355/phishing-email-detection-ml/blob/main/Final%20Project%20Report.docx.pdf)
